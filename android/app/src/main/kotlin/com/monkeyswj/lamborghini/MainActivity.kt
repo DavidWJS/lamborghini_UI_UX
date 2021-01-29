@@ -1,0 +1,6 @@
+package com.monkeyswj.lamborghini
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
